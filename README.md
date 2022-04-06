@@ -13,13 +13,26 @@ VLOOKUP,COUNTIF, SUBSTITUTE, TEXTJOIN, ...
 
 the cleaning process transformed the sheet to be a table with the needed columns and values for the analysis process, where it had columns about (countries, regions, gender, age, education level, income class) and other columns for the ownership of bank accounts and reasons for not owning them.
 
+![financial inclusion survey - excel](https://user-images.githubusercontent.com/79236835/161986419-cfc61d3a-0f68-41df-a7b1-d145c186518e.png)
+
+## Data Processing:
+for processing, i uploaded the data on power BI, where i used power query to make some transformations to the table to be ready to use in making the dashboard, then i used DAX to make new measures that would calculate some important things to show in the results obtained, like the "average percentage of bank account owners" in each country, "average mobile owners", "percentage of credit & debit card owners", "percentage of people who saved or borrowed money in 12 months", "percentage of people who pay online", ....
+
+some of used DAX functions are:
+- CALCULATE ()
+- COUNTROWS ()
+- AVERAGE()
+also i made some measures from using the columns only, like the percentage measures: and other measures were applied on a whole column, like the counting of the number of reasons of not to have bank account for each country.
+
+here is the dashboard after i have finished it:
 
 
 
 
-a new project I've done using #excel and #powerBI about bank accounts globally
-the data was obtained from FestMan™ Learning Hub and it contains a sample of the population of each country across the world
-the main results obtained from the analysis are:
+
+
+
+## the main insights obtained from the analysis are:
 - 63% of the persons have bank accounts, the percentage increases in the high income countries to 95% and decreases to 45% in the low income ones "mostly Latin American, sub-Saharan, and south Asian countries"
 - most bank account owners are between 15 and 40 years
 - most of them are in the workforce and completed their secondary education (most of the Asian countries owners actually completed their primary study)
