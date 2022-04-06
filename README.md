@@ -46,7 +46,7 @@ here is the dashboard after i have finished it:
 - in sub-Saharan Africa region, the percentage of mobile owners can vary from 90% in east African countries to 30% in a country like south Sudan.
 
 
-Uploading Financial Inclusion Survey - Globally.mp4…
+https://user-images.githubusercontent.com/79236835/161996103-a28b15c5-a51a-48ca-b61b-f7a64981c5fa.mp4
 
 
 # in conclusion, we can say that some parts in the world need to be more covered with the banking services, and also we can say sub-Saharan Africa can be an excellent new market for the banking sector globally to expand in.
