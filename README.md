@@ -21,7 +21,8 @@ for processing, i uploaded the data on power BI, where i used power query to mak
 some of used DAX functions are:
 - CALCULATE ()
 - COUNTROWS ()
-- AVERAGE()
+- AVERAGE ()
+
 also i made some measures from using the columns only, like the percentage measures: and other measures were applied on a whole column, like the counting of the number of reasons of not to have bank account for each country.
 
 here is the dashboard after i have finished it:
@@ -30,9 +31,7 @@ here is the dashboard after i have finished it:
 
 ![financial inclusion survey - page 2](https://user-images.githubusercontent.com/79236835/161991963-1f8aae35-18cf-40ba-b143-f6c3471b382a.png)
 
-
-
-
+![financial inclusion survey - page 3](https://user-images.githubusercontent.com/79236835/161993158-2b494512-b057-4bab-bf10-aa2b39b85c89.png)
 
 
 ## the main insights obtained from the analysis are:
@@ -45,5 +44,5 @@ here is the dashboard after i have finished it:
 - 82% are mobile owners, most of the owners have completed their tertiary education, and most of them are between 15 and 50 years
 - surprisingly, sub-Saharan Africans have the highest "mobile money account" percentage, especially countries on the east African coast (Kenya, Uganda, Rwanda, … etc.)
 - in sub-Saharan Africa region, the percentage of mobile owners can vary from 90% in east African countries to 30% in a country like south Sudan
-in conclusion, we can say that some parts in the world need to be more covered with the banking services, and also we can say sub-Saharan Africa can be an excellent new market for the banking sector globally to expand in
-and finally, the project can be found here: https://lnkd.in/gwVyH5pY
+# in conclusion, we can say that some parts in the world need to be more covered with the banking services, and also we can say sub-Saharan Africa can be an excellent new market for the banking sector globally to expand in
+
