@@ -28,6 +28,8 @@ here is the dashboard after i have finished it:
 
 ![financial inclusion survey - page 1](https://user-images.githubusercontent.com/79236835/161991728-d9fbcee2-afb9-4c94-89a0-683f0005e100.png)
 
+![financial inclusion survey - page 2](https://user-images.githubusercontent.com/79236835/161991963-1f8aae35-18cf-40ba-b143-f6c3471b382a.png)
+
 
 
 
