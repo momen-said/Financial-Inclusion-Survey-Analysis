@@ -43,6 +43,12 @@ here is the dashboard after i have finished it:
 -71% have debit cards, but the percentage decreases in sub-Saharan Africa, south Asia and MENA region to nearly 30%
 - 82% are mobile owners, most of the owners have completed their tertiary education, and most of them are between 15 and 50 years
 - surprisingly, sub-Saharan Africans have the highest "mobile money account" percentage, especially countries on the east African coast (Kenya, Uganda, Rwanda, … etc.)
-- in sub-Saharan Africa region, the percentage of mobile owners can vary from 90% in east African countries to 30% in a country like south Sudan
+- in sub-Saharan Africa region, the percentage of mobile owners can vary from 90% in east African countries to 30% in a country like south Sudan.
+
+
+Uploading Financial Inclusion Survey - Globally.mp4…
+
+
 # in conclusion, we can say that some parts in the world need to be more covered with the banking services, and also we can say sub-Saharan Africa can be an excellent new market for the banking sector globally to expand in
 
+## and finally, the excel sheet used and the power BI file can be found here: https://drive.google.com/drive/folders/1dlzqy0U1AlZ4nnqHR3F56upsvpMgcu7Y?usp=sharing
