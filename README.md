@@ -26,6 +26,7 @@ also i made some measures from using the columns only, like the percentage measu
 
 here is the dashboard after i have finished it:
 
+![financial inclusion survey - page 1](https://user-images.githubusercontent.com/79236835/161991728-d9fbcee2-afb9-4c94-89a0-683f0005e100.png)
 
 
 
