@@ -3,7 +3,7 @@
 ## Background:
 the world is facing unequality in the availability of the banking services in many regions and countries, this is because of many reasons, mainly poverty, untrust, safety, ...etc.
 
-here i made an analysis on a dataset to investigate the financial inclusion abroad.
+here i have made an analysis on a dataset to investigate the financial inclusion abroad.
 
 ## Data Preparation:
 first, the data was obtained from https://hub.festman.io/ which is an excel sheet.
